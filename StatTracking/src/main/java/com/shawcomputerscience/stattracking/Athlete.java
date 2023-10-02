@@ -11,14 +11,14 @@ package com.shawcomputerscience.stattracking;
  */
 public class Athlete {
     // The Athlete's first name
-    String fName;
+    private String fName;
     
     // The Athlete's last name
-    String lName;
+    private String lName;
     
     // The Athlete's position
-    String position;
+    private String position;
     
     // The total number of points the Athlete has scored
-    String totalPoints;
+    private String totalPoints;
 }

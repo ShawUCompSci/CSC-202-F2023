@@ -11,11 +11,11 @@ package com.shawcomputerscience.stattracking;
  */
 public class Sport {
     // This variable will hold the name of a given sport
-    String name;
+    private String name;
     
     // This variable will hold the number of teams that participate in a given match/game
-    int numTeamsPerMatch;
+    private int numTeamsPerMatch;
     
     // This variable will hold the number of players per team
-    int numPlayersPerTeam;
+    private int numPlayersPerTeam;
 }

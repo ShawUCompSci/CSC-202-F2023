@@ -39,7 +39,4 @@ public class Dog extends Mammal{
         return rtrString;
     }
     
-    public int compareTo(Object o) {
-        
-    }
 }

@@ -9,7 +9,7 @@ package com.shawcomputerscience.zoo;
  *
  * @author James
  */
-public abstract class Animal implements Comparable {
+public abstract class Animal {
     private int numTeeth;
     private int numEyes;
 
